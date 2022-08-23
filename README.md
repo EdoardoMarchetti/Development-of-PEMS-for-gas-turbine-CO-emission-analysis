@@ -1,2 +1,2 @@
 # DataScienceProject
-Project exam for "Data Science and Lab" at Politecnico di Torino
+Exam project for "Data Science and Lab" at Politecnico di Torino
